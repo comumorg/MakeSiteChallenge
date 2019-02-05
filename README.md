@@ -5,11 +5,11 @@
 The site should do:
 
 * Login page
-** Sign up
+  * Sign up
 * About page
 * Image upload
 * CRUD something
-** Music
-** Receips
-** ToDo
-** Events
+  * Music
+  * Receips
+  * ToDo
+  * Events
